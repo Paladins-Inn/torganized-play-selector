@@ -21,7 +21,7 @@ paginate = 5
     page = "/:slug/"
 
 [Author]  
-  name = "Torganized Play
+  name = "Torganized Play"
 
 [params]
   description = "Organizing tables for Torg"
