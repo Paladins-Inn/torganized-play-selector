@@ -1,20 +1,26 @@
 ---
 - group: Torganized Play (US)
   items:
-  - title: Torganized Play (Facebook)
+  - title: Torganized Play US (Facebook)
     url: https://www.facebook.com/groups/157832898110/
-  - title: Torganized Play Events
+  - title: Torganized Play US Events
     url: https://warhorn.net/events/torganized-play
-  - title: Mission Catalog
+  - title: Mission Catalog US
     url: https://cdn.discordapp.com/attachments/787152896072351795/867174098442125312/Torganized_Catalog-07202021.xlsx
-  - title: Storm Knight Vault
+  - title: Storm Knight Vault (US)
     url: https://app.roll20.net/join/3783236/HOjKkQ
+  - title: Discord (US)
+    url: https://discord.gg/JjxcaUnJkD
 
 - group: Torganisiertes Spiel (deutsch)
   items:
-  - title: Torganisiertes Spiel
+  - title: Torganisiertes Spiel (de)
     url: https://www.de.torganized-play.org
-  - title: Storm Knight Information System
+  - title: Torganisierte Spieltische (de)
+    url: https://www.de.torganized-play.org
+  - title: Storm Knight Information System (Missions) (de)
     url: https://www.delphi-council.org
-  - title: Discord
+  - title: Storm Knight Information System (Storm Knights) (de)
+    url: https://www.delphi-council.org
+  - title: Discord (de)
     url: https://discord.gg/wqnvSY3j65
