@@ -1,0 +1,55 @@
+ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
+baseURL = "/"
+languageCode = "de-DE, en-US"
+title = "Torganized Play"
+theme = "bootstrap-bp-hugo-startpage"
+# googleAnalytics = "UA-123-45"
+copyright = "Torganized Play"
+enableRobotsTXT = true
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 5
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"
+
+[Author]  
+  name = "Torganized Play
+
+[params]
+  description = "Organizing tables for Torg"
+  images = ["images/delphi-council.png"]
+  startPageColumns = false
+  welcomeText = "Welcome in the possibility wars ..."
+
+[[params.searchEngines]]
+  name = "Google"
+  activated = false
+  url = "https://www.google.com/search"
+
+[[params.searchEngines]]
+  name = "DuckDuckGo"
+  activated = false
+  url = "https://duckduckgo.com/"
+
+[[params.searchEngines]]
+  name = "Bing"
+  activated = false
+  url = "https://www.bing.com/search"
+
+[[params.searchEngines]]
+  name = "Baidu"
+  activated = false
+  url = "https://baidu.com/s"
+  searchkey = "wd"
+
+[taxonomies]
+
+
